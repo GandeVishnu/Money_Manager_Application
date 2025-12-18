@@ -1,2 +1,2 @@
-# MoneyManagerApplication_react.js_css
+# MoneyManagerApplication_HTML_CSS
 ### updating_soon................
